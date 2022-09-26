@@ -27,7 +27,7 @@
 		
 		<link rel="shortcut icon" type="imagex/png" href="fav.png"> <!--ICONE-->
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>Plataforma Oficial &copy; Atuex Express</title>
+		<title>Plataforma Oficial</title>
 
 		<!--Carrega as bibliotecas JavaSript para as máscaras de CPF, Celular, etc. -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -130,8 +130,8 @@
 		<div id="rodape">
 				<label style="background-color: #042f66;    text-align: center;    font-weight:normal;    width:100%;
 				color:white;     position:fixed;     bottom:0px;       font-size: 0.9rem;    height: 1.8rem;">
-					<?php echo date('Y'); ?> &copy; Todos os direitos reservados - Desenvolvido por Atuex Express - 
-					<a href="mailto: suporte@transatual.com.br" style="font-size: 0.9rem; color: white; font-weight:bold; text-decoration:none;">@suporte</a></label>
+					<?php echo date('Y'); ?> Desenvolvido por Marcos Silva
+					</label>
 		</div>
 	</div>	
 </body>
